@@ -1,4 +1,4 @@
-FROM $USER/gluster
+FROM $USER/ferry-base
 NAME spark
 
 # Make the various directories needed
